@@ -1,0 +1,22 @@
+{
+  "name": "idw24",
+  "version": "1.0.0",
+  "description": "TP INTEGRADOR IDW 2024 - UNER\r Pre entrega...\r *ELLEMBERGER GISELA NATALIA - \r *RAMIREZ CAROLINA ELIZABETH.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinaeramirez/IDW24.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolinaeramirez/IDW24/issues"
+  },
+  "homepage": "https://github.com/carolinaeramirez/IDW24#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
